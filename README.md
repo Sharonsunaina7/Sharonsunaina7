@@ -50,9 +50,9 @@ Here are some of my key projects:
 
 ### ⚡ GitHub Stats
 <div align="center">
-  <img width=390 src="https://streak-stats.demolab.com/?user=Sharonsunaina7&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sharonsunaina7&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats" />
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharonsunaina7&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top languages" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=Sharonsunaina7&count_private=true&theme=react&border_radius=10" alt="Streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Sharonsunaina7&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub stats"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharonsunaina7&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top languages"/>
 </div>
 
 ---
