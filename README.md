@@ -43,7 +43,7 @@ Here are some of my key projects:
 
 ### 🌐 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sharonsunaina7?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" />
+  <img src="https://leetcard.jacoblin.cool/sharonsunaina710?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" />
 </p>
 
 ---
