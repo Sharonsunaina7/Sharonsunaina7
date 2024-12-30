@@ -16,7 +16,7 @@
 ---
 
 <div align="center">
-  <h2> Contributions </h2>
+  <h2>🌟 Contributions 🌟</h2>
 </div>
 
 ---
@@ -29,15 +29,15 @@ Here are some of my key projects:
    - **Tools:** Python, OpenCV, Scikit-learn  
    - **Goal:** Leverage emotion detection for real-world applications like mental health tracking.
 
-2. **[Dynamic Weather App](#)**  
-   - **Description:** A simple web app that fetches real-time weather data.  
-   - **Tools:** HTML, CSS, JavaScript  
-   - **Goal:** Provide users with a clean and responsive weather dashboard.
+2. **[Age and Gender Detection](https://github.com/Sharonsunaina7/Age_Gender_Detection)**  
+   - **Description:** A computer vision application that accurately detects the age and gender of individuals from images. 
+   - **Tools:** Python, OpenCV, TensorFlow  
+   - **Goal:** Pre-trained deep learning model integration - Applications in targeted marketing and user analytics.
 
-3. **[My Portfolio Website](#)**  
-   - **Description:** A personal portfolio to showcase my projects and skills.  
-   - **Tools:** HTML, CSS, Bootstrap  
-   - **Goal:** Share my work and connect with others in the tech community.
+3. **[Face Mask Detection (COVID-19 Use Case)](https://github.com/Sharonsunaina7/Face_Mask_Recognition)**  
+   - **Description:** A system that detects whether individuals are wearing face masks, essential during pandemic situations like COVID-19.  
+   - **Tools:** Python, OpenCV, Keras, TensorFlow. 
+   - **Goal:** Alerts for individuals without masks - Useful for public safety in crowded areas.
 
 ---
 
