@@ -62,12 +62,13 @@ Here are some of my key projects:
   <a href="https://linkedin.com/in/sharon7103" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
+    <a href="https://leetcode.com/sharonsunaina710" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
   <a href="mailto:sharonsunaina7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://leetcode.com/sharonsunaina710" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
+
 </p>
 
 
