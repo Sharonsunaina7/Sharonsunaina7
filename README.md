@@ -68,7 +68,9 @@ Here are some of my key projects:
   <a href="mailto:sharonsunaina7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-
+  <a href="https://www.kaggle.com/sharonsunaina" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
 
 
