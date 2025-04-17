@@ -8,7 +8,7 @@
 ### 🌟 About Me
 - 📚 **Education:** Undergraduate in Data Science and Computer Science at Government Degree College for Women, Begumpet.
 - 🌱 **Learning Journey:**  
-  - Solved 5+ problems on **LeetCode** and counting.  
+  - Solved 45+ problems on **LeetCode** and counting.  
   - Uploaded 13 repositories showcasing various projects.
 - 🎯 **Goals:** Expand skills in data science, contribute to open source, and build impactful projects.  
 - ✨ **Fun Fact:** I love video editing and watching *Anime*! 🎥  
